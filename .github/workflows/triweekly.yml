@@ -30,7 +30,7 @@ jobs:
         mkdir -p output
         python zendesk_csat.py ${{ steps.get-date.outputs.TODAY_DATE }}
 
-    - name: Upload S3
+    - name: Upload AWS
       env:
         EMAIL: ${{ secrets.EMAIL }}
         TOKEN: ${{ secrets.TOKEN }}

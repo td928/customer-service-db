@@ -1,17 +1,17 @@
 credentials:
   usernames:
     admin:
-      email: tedu@aputure.io
-      name: Te Du
-      password: $2b$12$fM3CFV.6RQYWsrIbTdDRruXV7yfZoAj0Sxf5ikJzuWwdVPbUP2hpe
+      email: 
+      name:
+      password: 
     qun:
-      email: qun@aputure.io
-      name: Qun Tan Feng
-      password: $2b$12$fM3CFV.6RQYWsrIbTdDRruXV7yfZoAj0Sxf5ikJzuWwdVPbUP2hpe # To be replaced with hashed password
+      email: 
+      name: 
+      password: # To be replaced with hashed password
 cookie:
-  expiry_days: 30
-  key: random_signature_key # Must be string
-  name: random_cookie_name
+  expiry_days: 
+  key: # Must be string
+  name: 
 preauthorized:
   emails:
-  - melsby@gmail.com
+  - 
